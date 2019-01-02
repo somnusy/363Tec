@@ -8,6 +8,6 @@ spring:
       server:
         git:
           uri: https://github.com/yuanchangxin/363Tec.git
-          search-paths:
+          search-paths: config-center
           username: yuanchangxin
           password: YCXlqh3172678
