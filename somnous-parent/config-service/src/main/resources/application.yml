@@ -8,6 +8,9 @@ spring:
       server:
         git:
           uri: https://github.com/yuanchangxin/363Tec.git
-          search-paths: somnous-parent/config-center
+          basedir: somnous-parent/config-center
+          search-paths: '{application}'
+          force-pull: true
+          clone-on-start: true
           username: yuanchangxin
           password: YCXlqh3172678
