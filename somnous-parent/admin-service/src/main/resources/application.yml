@@ -1,0 +1,15 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: admin-service
+management:
+  security:
+    enabled: false
+  context-path: /admin
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8080/eureka
+  instance:
+    prefer-ip-address: true
