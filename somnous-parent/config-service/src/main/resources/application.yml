@@ -7,8 +7,8 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/yuanchangxin/363Tec.git
-          basedir: D:\idea_workspace\363Tec\363Tec\somnous-parent\config-center
+          uri: https://github.com/yuanchangxin/363Tec-config.git
+          basedir: D:\idea_workspace\363Tec\363Tec-config\
           search-paths: '{application}'
           force-pull: true
           clone-on-start: true
