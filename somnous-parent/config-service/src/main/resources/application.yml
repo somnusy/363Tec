@@ -1,0 +1,13 @@
+server:
+  port: 8082
+spring:
+  application:
+    name: config-service
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/yuanchangxin/363Tec.git
+          search-paths:
+          username: yuanchangxin
+          password: YCXlqh3172678
