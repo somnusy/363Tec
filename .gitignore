@@ -27,3 +27,4 @@ nbdist/
 bootstrap-config.yml
 bootstrap-dev.yml
 /.gitignore
+/somnous-parent/.gitignore
