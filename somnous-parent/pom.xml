@@ -23,6 +23,8 @@
         <spring-cloud.version>Edgware.SR5</spring-cloud.version>
         <spring-boot-admin.version>2.1.1</spring-boot-admin.version>
         <org.eclipse.jgit.version>4.4.1.201607150455-r</org.eclipse.jgit.version>
+        <groovy.eclipse.compiler.version>2.9.2-01</groovy.eclipse.compiler.version>
+        <groovy.eclipse.batch.version>2.4.3-01</groovy.eclipse.batch.version>
     </properties>
 
     <dependencies>

@@ -2,7 +2,7 @@ server:
   port: 8084
 template:
   git:
-    uri: https://github.com/yuanchangxin/363Tec-config.git
+    uri: https://github.com/yuanchangxin/template-config.git
     username: yuanchangxin
     password: YCXlqh3172678
     basedir: D:\idea_workspace\363Tec\test
